@@ -48,9 +48,9 @@ Dr. Kamran Diba (University of Wisconsin Milwaukee)
 
 Dr. Marie Carlén (Karolinska Institutet - Sweden)
 
-Dr. Eduardo Mazoni (Federal University of Minas Gerais)
+Dr. Eduardo Mazoni (Escola de Engenharia - Federal University of Minas Gerais)
 
-Dr. Márcio Moraes (Federal University of Minas Gerais)
+Dr. Márcio Flávio Dutra Moraes (Núcleo de Neurociências - Federal University of Minas Gerais)
 
 
 
