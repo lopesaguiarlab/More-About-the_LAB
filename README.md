@@ -6,36 +6,40 @@ We also are interested in developing open source closed-loop strategies to exami
 
 Team:
 
-Principal Investigator: Dr. Cleiton Lopes Aguiar 
+Principal Investigator: 
+
+Dr. Cleiton Lopes Aguiar 
 (https://scholar.google.com.br/citations?hl=en&btnA=1&user=BJkJ85AAAAAJ)
+
 
 Grad students
 
-Leonardo Rakauskas (co-supervisor) : 
+Leonardo Rakauskas Zacharias (co-supervisor)  
 
-Fernanda Moraes (co-supervisor) : 
+Fernanda Moraes (co-supervisor)  
 
 
 Undergrad students:
 
 Lucas Barone Peres
 
-Giulia Zanon 
+Giulia Zanon de Castro 
 
-Iana
+Iana Martins da Costa Corrêa e Souza
 
-Vittor
+Vittor Faria Pereira
 
-Ramon
+Ramon Bhaskara de França e Silva
 
-Mike
+Mike Johnson Braga
 
-Lucas
+Lucas Rapahel
 
-Renan
+Renan Mendes
 
 
 Collaborators:
+
 Dr. João Pereira Leite (University of São Paulo)
 
 Dr. Kamran Diba (University of Wisconsin Milwaukee)
