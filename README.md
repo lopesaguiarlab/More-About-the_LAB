@@ -12,7 +12,7 @@ Dr. Cleiton Lopes Aguiar
 (https://scholar.google.com.br/citations?hl=en&btnA=1&user=BJkJ85AAAAAJ)
 
 
-Grad students
+Grad students in Neuroscience (University of São Paulo)
 
 Leonardo Rakauskas Zacharias (co-supervisor)  
 
@@ -23,15 +23,15 @@ Undergrad students:
 
 Lucas Barone Peres
 
-Giulia Zanon de Castro 
+Giulia Zanon de Castro ( https://github.com/giuliazc/Open-Lab-Book )
 
-Iana Martins da Costa Corrêa e Souza
+Iana Martins da Costa Corrêa e Souza ( https://github.com/ianamccs/OpenLabBook-Iana )
 
-Vittor Faria Pereira
+Vittor Faria Pereira ( https://github.com/vittorfp/Open-Lab-Book )
 
-Ramon Bhaskara de França e Silva
+Ramon Bhaskara de França e Silva ( https://github.com/ramonbhaskara/Open-Lab-Book-Ramon )
 
-Mike Johnson Braga
+Mike Johnson Braga 
 
 Lucas Rapahel
 
