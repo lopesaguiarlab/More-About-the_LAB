@@ -2,7 +2,7 @@ How do memories persist? Network activity during sleep is thought to support mem
 
 Our laboratory take advantage of large-scale neurophysiological recordings, mathematical analyses, and optogenetics technology in freely-moving animals to investigate how hippocampal SWR activity can drive changes in the connectivity of mPFC local circuits. 
 
-We also are interested in developing open source closed-loop strategies to examine directly the role of the hippocampal-prefrontal communication on memory storage processes. 
+Besides we are interested in developing open source closed-loop strategies to examine directly the role of the hippocampal-prefrontal communication on memory storage processes. 
 
 Team:
 
