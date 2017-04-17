@@ -11,7 +11,8 @@ Team:
 Principal Investigator: 
 
 Dr. Cleiton Lopes Aguiar 
-(https://scholar.google.com.br/citations?hl=en&btnA=1&user=BJkJ85AAAAAJ)
+https://www.researchgate.net/profile/Cleiton_Lopes_Aguiar
+https://scholar.google.com.br/citations?hl=en&btnA=1&user=BJkJ85AAAAAJ
 
 
 Grad students in Neuroscience (University of São Paulo)
