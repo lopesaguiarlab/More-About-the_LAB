@@ -14,6 +14,7 @@ Dr. Cleiton Lopes Aguiar
 
 Publications
 https://scholar.google.com.br/citations?hl=en&btnA=1&user=BJkJ85AAAAAJ
+
 https://orcid.org/0000-0001-9310-6338 
 
 People
@@ -21,16 +22,23 @@ People
 Graduate students
 
 Bruno Monteiro de Sousa (PhD student - Physiology and Pharmachology Graduate Program - UFMG)
+
 Igor Menezes Gonçalves Rego (Master's student - Physiology and Pharmachology Graduate Program - UFMG)
+
 Rafaela Schuttenberg Polanczyk (Master's student - Physiology and Pharmachology Graduate Program - UFMG)
+
 Mariana Reines Bevilaqua Sullavan (Master's student - Neuroscience Graduate Program - UFMG)
 
 Undergraduate students
 
 Ikaro Jesus da Silva Beraldo
+
 Mateus Prates Rodrigues
+
 Marcela Bastos Vieira Matos
+
 Isabela Borges Hubner
+
 Beatriz Polachini
 
 
