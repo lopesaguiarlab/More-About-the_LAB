@@ -19,7 +19,7 @@ https://orcid.org/0000-0001-9310-6338
 
 People
 
-Graduate students
+*Graduate students*
 
 Bruno Monteiro de Sousa (PhD student - Physiology and Pharmachology Graduate Program - UFMG)
 
