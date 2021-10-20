@@ -19,7 +19,8 @@ https://orcid.org/0000-0001-9310-6338
 
 People
 
-*Graduate students*
+
+Graduate students
 
 Bruno Monteiro de Sousa (PhD student - Physiology and Pharmachology Graduate Program - UFMG)
 
@@ -28,6 +29,7 @@ Igor Menezes Gonçalves Rego (Master's student - Physiology and Pharmachology Gr
 Rafaela Schuttenberg Polanczyk (Master's student - Physiology and Pharmachology Graduate Program - UFMG)
 
 Mariana Reines Bevilaqua Sullavan (Master's student - Neuroscience Graduate Program - UFMG)
+
 
 Undergraduate students
 
